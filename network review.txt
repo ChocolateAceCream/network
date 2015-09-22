@@ -1,0 +1,11 @@
+*1) timing analysis of K
+2) DNS
+3) web user clustering (hit ratio) (http)
+4) fast webpage 
+5) measuring IPv6 
+6) dominantchart
+*7) base rate fallaciy 
+8) anomaly detection 
+9) protocols 
+*10)sequence number attaction pretect
+*11) ROC analysis
